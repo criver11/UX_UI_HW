@@ -7,7 +7,9 @@
     list-style: none;
     font-family:  "bely-display", Open Sans, Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
   }
-  
+  .responsive {
+    padding-bottom: 50px;
+  }
   body {
       margin: 0;
       background-color: #e9ebee;
